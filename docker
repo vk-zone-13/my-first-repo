@@ -1,2 +1,3 @@
 docker is a open source containerization platform
 docker provides consistent runtime env
+docker uses docker images to create containers
